@@ -3,13 +3,13 @@ running the next command.
 
 `git clone adk-hq-regression-test-run-all-env`
 
-- open you command line and move inside of the script folder (adk-hq-regression-test..)
-
-`cd <project name>`
-
 - give execute permission: 
 
 `chmod +x updateConfig.sh`
+
+- create a new regression data file
+
+`cp regression-data.demo.txt regression-data.txt`
 
 - finally, run the script: 
   
